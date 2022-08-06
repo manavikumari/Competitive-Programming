@@ -1,5 +1,10 @@
 # Prerequisites
 *.d
+# vscode
+*.vscode
+
+#template
+template.cpp
 
 # Compiled Object files
 *.slo
